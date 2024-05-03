@@ -6,7 +6,7 @@ Faaaala dev, Wesley Ribas Aqui! ![](https://user-images.githubusercontent.com/18
 ### My GitHub Stats
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyR10&show_icons=true&theme=great-gatsby&hide=issues,contribs&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyR10&show_icons=true&theme=great-gatsby&hide=issues,contribs&count_private=true"/><br/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyR10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
