@@ -4,13 +4,14 @@ Faaaala dev, Wesley Ribas Aqui! ![](https://user-images.githubusercontent.com/18
 ### Desenvolvedor Full Stack &nbsp; <img src="https://github.com/WesleyR10/WesleyR10/assets/115756312/1049bceb-6e92-4315-aaf4-e6233997aa07" width="26" alt="image">
 
 ### My GitHub Stats
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyR10&show_icons=true&theme=great-gatsby&hide=issues,contribs&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyR10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
+<div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - <img src="https://github.com/WesleyR10/WesleyR10/assets/115756312/daa95a10-442f-4530-9d5d-2cbf69013ff4" width="16" alt="image">&nbsp; Sou um entusiasta da tecnologia com uma paixão fervorosa por criar soluções inovadoras.
@@ -18,6 +19,7 @@ Faaaala dev, Wesley Ribas Aqui! ![](https://user-images.githubusercontent.com/18
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/WesleyR10](https://github.com/WesleyR10)
 - <img src="https://github.com/WesleyR10/WesleyR10/assets/115756312/55877850-e5a2-43e7-96dd-1c704132819e" width="16" alt="image">&nbsp; Projeto em destaque: https://www.meetflow.tech 
 - ✉️ Você pode entrar em contato comigo em [wesleyribas2015@gmail.com](mailto:wesleyribas2015@gmail.com).
+</div>
 
 ### Skills 
 
