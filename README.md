@@ -7,13 +7,13 @@ Faaaala dev, Wesley Ribas Aqui! ![](https://user-images.githubusercontent.com/18
 
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=WesleyR10&show_icons=true&theme=great-gatsby&hide=issues,contribs&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyR10&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=WesleyR10&show_icons=true&theme=great-gatsby&hide=issues,contribs&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyR10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
 <div>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - <img src="https://github.com/WesleyR10/WesleyR10/assets/115756312/daa95a10-442f-4530-9d5d-2cbf69013ff4" width="16" alt="image">&nbsp; Sou um entusiasta da tecnologia com uma paixão fervorosa por criar soluções inovadoras.
 - <img src="https://github.com/WesleyR10/WesleyR10/assets/115756312//8e44d79c-d4ca-4f72-81f5-f07317baea24" width="16" alt="image">&nbsp; Estou constantemente em busca de desafios que me permitam expandir meus horizontes e aprimorar minhas habilidades.
